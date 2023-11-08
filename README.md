@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+https://qiita.com/Sicut_study/items/3c5cd798313854a471a0
+
+こちらの記事を元にHelloWorldコンポーネントを作成しました。
+
 ## Available Scripts
 
 In the project directory, you can run:
