@@ -1,10 +1,13 @@
+# About
+This App is practice of react and typescript.
+We have created an application based on the following article.
+https://qiita.com/Sicut_study/items/3c5cd798313854a471a0
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-https://qiita.com/Sicut_study/items/3c5cd798313854a471a0
-
-こちらの記事を元にHelloWorldコンポーネントを作成しました。
 
 ## Available Scripts
 
